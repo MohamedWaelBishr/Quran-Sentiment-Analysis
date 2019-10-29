@@ -39,8 +39,6 @@ As U Can See We Got Number Of Surahs For Each Polarity
 
 
 
-
-
 ***********************************************
           ==========================
           Happy Surahs   => 95
@@ -70,4 +68,27 @@ As U Can See We Got Number Of Surahs For Each Polarity
   <img src="https://3.top4top.net/p_139699rm51.png">
 </p>
 
+# **Get Percentage Of Each Polarity To All Words**
 
+***********************************************     
+          Pos: 3500  [1.7337117778471263%]
+          Neg: 1799  [0.8911278538134229%] 
+          Nat: 86735 [42.963854586162995%]
+***********************************************     
+ **Plotting WordCloud Of Positive Words Using WordCloud Module**
+***********************************************     
+<p align="center">
+  <img src="https://3.top4top.net/p_1396fzr821.png">
+</p>
+     
+ **Plotting WordCloud Of Negative Words Using WordCloud Module**
+***********************************************     
+<p align="center">
+  <img src="https://6.top4top.net/p_1396bvrjf1.png">
+</p>
+  
+ **Plotting WordCloud Of Natural Words Using WordCloud Module**
+***********************************************     
+<p align="center">
+  <img src="https://2.top4top.net/p_1396m2ojj1.png">
+</p>
