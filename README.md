@@ -33,8 +33,11 @@ I am looking forward to see your work and ideas and will keep adding more ideas 
 # **Get The Average Sentiment Polarity For Each Surah Using TextBlob Library**
 
 As U Can See We Got Number Of Surahs For Each Polarity
+***********************************************
 **Positive** Means That Most Of Surah's Ayahs Is **Positive** Like **Heaven , Good , Happiness , Belivers**
+***********************************************
 **Negative** Means That Most Of Surah's Ayahs Is **Negative** Like **Hell , Evil , Sadness , Unbelivers**
+***********************************************
 **Natural** Means That Most Of Surah's Ayahs Is **Natural** Like **Light , Walk , Go , In , Say**
 
 
