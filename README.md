@@ -44,8 +44,8 @@ As U Can See We Got Number Of Surahs For Each Polarity
 
 ***********************************************
           ==========================
-          Happy Surahs   => 95
-          Sad Surahs     => 15
+          Positive Surahs   => 95
+          Negative Surahs     => 15
           Natural Surhas => 4
           ==========================
 ***********************************************          
