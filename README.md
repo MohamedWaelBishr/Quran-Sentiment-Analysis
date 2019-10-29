@@ -52,12 +52,22 @@ As U Can See We Got Number Of Surahs For Each Polarity
 # **Plotting The Words With Higher Occurrence In Each Polarity List**
 
 ## Ploting Positive Words
-![Positive](https://3.top4top.net/p_1396nsisl1.png)
+
+<p align="center">
+  <img src="https://3.top4top.net/p_1396nsisl1.png">
+</p>
+
 
 ## Ploting Negative Words
-![Negative](https://1.top4top.net/p_1396emvuh1.png)
+
+<p align="center">
+  <img src="https://1.top4top.net/p_1396emvuh1.png">
+</p>
 
 ## Ploting Natural Words
-![Natural](https://3.top4top.net/p_139699rm51.png)
+
+<p align="center">
+  <img src="https://3.top4top.net/p_139699rm51.png">
+</p>
 
 
